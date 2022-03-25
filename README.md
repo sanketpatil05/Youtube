@@ -19,7 +19,7 @@ All the image and icon links have been taken from the main website (  https://ww
 ## Snapshots 📷
 - Landing Page (Home Page):
   
-![Home Page]()
+![Home Page](https://i.pinimg.com/originals/63/53/d7/6353d7f1a499db8ef244cb164296ef6c.jpg)
 
 
 ### End Notes 📑
